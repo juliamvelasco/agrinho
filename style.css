@@ -1,0 +1,56 @@
+
+header{
+    margin: 10px;
+    display: flex;
+    background-color: rgb(230, 219, 195);
+    border-radius: 30px;
+   
+}
+
+.logo{
+    height: 150px;
+    width: 150px;
+}
+
+.festa{
+    color: rgb(75, 47, 25);
+    margin-left: 700px;
+    margin-top: 40px;
+    font-size: 60px;
+}
+
+.palacio{
+    margin-left: 40px;
+    border-radius: 10px;
+    width: 1000px;
+    height: 700px;
+}
+
+.texto{
+    margin: 40px;
+    color: rgb(78, 62, 58);
+}
+
+.japao{
+    margin-left: 40px;
+    border-radius: 10px;
+    width: 1200px;
+    height: 700px;
+}
+
+.texto2{
+     margin: 40px;
+    color: rgb(78, 62, 58);
+}
+
+.catarata{
+    margin-left: 40px;
+    border-radius: 10px;
+    width: 1200px;
+    height: 700px;
+}
+
+.texto3{
+    margin: 40px;
+    color: rgb(78, 62, 58);
+}
